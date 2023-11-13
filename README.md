@@ -32,7 +32,7 @@ Kosaraju's algorithm and Tarjan's algorithm
 Dijkstra's algorithm and Bellman-Ford algorithm
 
 #### Week3
-Heap data structure/priority queue
+Heap data structure/priority_queue
 
 #### Week4
 Hash table
