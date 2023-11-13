@@ -51,7 +51,7 @@ Clustering algorithm, unordered_map and bit manipulation
 Huffman coding
 
 #### Week4
-Dynamic programming
+Dynamic programming and greedy algorithm
 
 ### [Course 4: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://github.com/kevininder/Stanford-Algorithms-Specialization/tree/main/Course4)
 #### Week1
