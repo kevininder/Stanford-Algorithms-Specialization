@@ -61,7 +61,7 @@ Floyd-Warshall algorithm
 Dynamic programming, Hamiltonian cycle and bitmasking operation
 
 #### Week3
-Nearest neighbor heurisitc
+Nearest neighbor heuristic
 
 #### Week4
 Conjunctive normal form, implication graph and Kosaraju's algorithm
