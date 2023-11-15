@@ -85,7 +85,6 @@ int main() {
     int number, bits;
     string data;
     vector<string> V;
-    unordered_map<string, int> M;
     ifstream file("clustering_big.txt");
     
     file >> number >> bits;
