@@ -1,5 +1,7 @@
 # Stanford-Algorithms-Specialization
-This specialization is an introduction to data structures and algorithms. It emphasizes the big picture and conceptual understanding over low-level implementation and mathematical details. Taught by [Tim Roughgarden](https://www.coursera.org/instructor/~768), and provided and available on [Coursera](https://www.coursera.org).
+This specialization is an introduction to data structures and algorithms. It emphasizes the big picture and conceptual understanding over low-level implementation and mathematical details.
+
+Taught by [Tim Roughgarden](https://www.coursera.org/instructor/~768), and provided and available on [Coursera](https://www.coursera.org).
 
 ## Introduction
 This repository contains solutions to the assignments of Stanford Algorithms Specialization. Please attempt the assignments on your own first. You can always consult the discussion forum for hints or explanations. I found it super helpful on my learning journey. Use this as a reference only. 
