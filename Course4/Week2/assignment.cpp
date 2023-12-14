@@ -1,4 +1,4 @@
-/* Typical TSP problem with concept of Hamiltonian Cycle and bitmasking operation to improve time complexity.
+/* Typical TSP with concept of Hamiltonian Cycle and bitmasking operation to improve time complexity.
    Note to self, vector is way faster than map/hash table in this regard.
    Performance check included.
 */
